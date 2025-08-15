@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\ADTmp\Snapshot\1\Assembly customer\Pick Place\7200034_eb-usb-otg1_vA.4_gerber.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/08/25
+Time:       15:12
+Revision:   Not in VersionControl
+Variant:    customer
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R5","RES-100092-01","TopLayer","RESC0603-01","1929.134","1858.268","270","Chip Resistor Thick Film 0603 220 ohm 1% 1/10W"
+"R3","RES-100092-01","TopLayer","RESC0603-01","1929.134","1149.606","90","Chip Resistor Thick Film 0603 220 ohm 1% 1/10W"
+"U1","ICN-110015-01","TopLayer","MAXIM_TSSOP-14","1524.322","1643.701","90","USB OTG Charge Pump"
+"FL1","IND-100014-01","TopLayer","MURATA_FL0805","807.087","1978.347","0","Common Mode Filter Inductor, 180 ohm CM @ 100MHz, 0805"
+"D1","DIO-100005-01","TopLayer","SEMTECH_SLP1210N6","1181.102","2125.984","270","Semtech TVS Diode Array for USB"
+"R2","RES-100084-01","TopLayer","RESC0603-01","944.883","2007.874","0","Chip Resistor Thick Film 0603 27R0 1% 1/10W"
+"R1","RES-100084-01","TopLayer","RESC0603-01","944.882","1948.819","0","Chip Resistor Thick Film 0603 27R0 1% 1/10W"
+"J1","CON-100013-01","TopLayer","MOLEX_47589-0001","1161.417","2342.520","180","USB Micro AB 2.0 Female 5 Pin Right Angle Molex"
+"C4","CAP-000074-01","TopLayer","CAPC0603-01","1318.898","1525.591","0","Ceramic Chip Capacitor 0603 1uF 50V"
+"C3","CAP-000029-01","TopLayer","CAPC0603-01","1534.165","1870.079","180","Ceramic Chip Capacitor 0603 0.1uF 50V"
+"C2","CAP-000029-01","TopLayer","CAPC0603-01","1412.817","1840.551","180","Ceramic Chip Capacitor 0603 0.1uF 50V"
+"C1","CAP-000074-01","TopLayer","CAPC0603-01","1427.165","1446.850","180","Ceramic Chip Capacitor 0603 1uF 50V"
+"P2","CON-100032-01","BottomLayer","SAMTEC_SSQ-120-23-x-D","2825.503","1078.828","90","SAMTEC Female Header 0.1" pitch 40pos 2x20, 10mm pins, gold flash tail"
+"P1","CON-100032-01","BottomLayer","SAMTEC_SSQ-120-23-x-D","325.503","1078.828","90","SAMTEC Female Header 0.1" pitch 40pos 2x20, 10mm pins, gold flash tail"

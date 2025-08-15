@@ -1,0 +1,325 @@
+UNITS=INCH
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 top_layer
+
+# CMP 0
+CMP 4 1.9291338 1.8582677 90 N R5 RES-100092-01 ;0=1,1=0.0236,5=0
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_1 'Yageo'
+PRP Manufacturer_Part_Number_1 'RC0603FR-07220RL'
+PRP Mfg 'Yageo'
+PRP Mfg_Part_Number 'RC0603FR-07220RL'
+PRP Package '0603'
+PRP PN 'RC0603FR-07220RL'
+PRP Power '1/10W'
+PRP Resistance '220R'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '311-220HRCT-ND'
+PRP Supplier_Part_Number_2 '603-RC0603FR-07220RL'
+PRP Tolerance '1%'
+TOP 0 1.9291338 1.8897637 0 N 95 16 1
+TOP 1 1.9291338 1.8267716 0 N 18 0 2
+#
+# CMP 1
+CMP 4 1.9291338 1.1496063 270 N R3 RES-100092-01 ;0=1,1=0.0236,5=0
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_1 'Yageo'
+PRP Manufacturer_Part_Number_1 'RC0603FR-07220RL'
+PRP Mfg 'Yageo'
+PRP Mfg_Part_Number 'RC0603FR-07220RL'
+PRP Package '0603'
+PRP PN 'RC0603FR-07220RL'
+PRP Power '1/10W'
+PRP Resistance '220R'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '311-220HRCT-ND'
+PRP Supplier_Part_Number_2 '603-RC0603FR-07220RL'
+PRP Tolerance '1%'
+TOP 0 1.9291338 1.1181103 180 N 95 15 1
+TOP 1 1.9291338 1.1811024 180 N 17 0 2
+#
+# CMP 2
+CMP 1 1.5243221 1.6437009 270 N U1 ICN-110015-01 ;0=1,1=0.0433,5=0
+PRP Display_Name 'MAX3355'
+PRP Manufacturer 'Maxim'
+PRP Manufacturer_1 'Maxim'
+PRP Manufacturer_Part_Number_1 'MAX3355EEUD'
+PRP Mfg 'Maxim'
+PRP Mfg_Part_Number 'MAX3355EEUD'
+PRP PN 'MAX3355EEUD'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_3 'Farnell'
+PRP Supplier_Part_Number_1 'MAX3355EEUD+-ND'
+PRP Supplier_Part_Number_2 '700-MAX3355EEUD'
+PRP Supplier_Part_Number_3 '2514394'
+TOP 0 1.4475504 1.5275592 180 N 2 2 1
+TOP 1 1.473141 1.5275592 180 N 42 1 2
+TOP 2 1.4987315 1.5275592 180 N 40 0 3
+TOP 3 1.5243221 1.5275592 180 N 18 1 4
+TOP 4 1.5499126 1.5275592 180 N 16 1 5
+TOP 5 1.5755032 1.5275592 180 N 15 0 6
+TOP 6 1.6010937 1.5275592 180 N 20 0 7
+TOP 7 1.6010937 1.7598427 180 N 19 0 8
+TOP 8 1.5755032 1.7598427 180 N 42 2 9
+TOP 9 1.5499126 1.7598427 180 N 41 1 10
+TOP 10 1.5243221 1.7598427 180 N 17 1 11
+TOP 11 1.4987315 1.7598427 180 N 95 9 12
+TOP 12 1.473141 1.7598427 180 N 39 0 13
+TOP 13 1.4475504 1.7598427 180 N 43 0 14
+#
+# CMP 3
+CMP 3 0.8070866 1.9783465 0 N FL1 IND-100014-01 ;0=1,1=0.0472,5=0
+PRP Current '330mA'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_1 'Murata'
+PRP Manufacturer_Part_Number_1 'DLW21SN181SQ2'
+PRP Mfg 'Murata'
+PRP Mfg_Part_Number 'DLW21SN181SQ2'
+PRP Package 'FL0805'
+PRP PN 'DLW21SN181SQ2'
+PRP Resistance '180 @ 100MHZ'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'RSComponents'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 '490-5139-1-ND'
+PRP Supplier_Part_Number_2 '8119745'
+PRP Supplier_Part_Number_3 '81-DLW21SN181SQ2L'
+PRP Tolerance '25%'
+TOP 0 0.773622 1.9625985 0 N 3 0 1
+TOP 1 0.8405512 1.9625985 0 N 8 0 2
+TOP 2 0.8405512 1.9940945 0 N 7 0 3
+TOP 3 0.773622 1.9940945 0 N 4 0 4
+#
+# CMP 4
+CMP 7 0.7775591 1.828828 90 N E9 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 0.8001969 1.828828 90 N 42 4 1
+TOP 1 0.7549213 1.828828 270 N 1 0 2
+#
+# CMP 5
+CMP 7 2.4409449 1.8307087 270 N E8 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 2.4183071 1.8307087 270 N 18 2 1
+TOP 1 2.4635827 1.8307087 90 N 6 0 2
+#
+# CMP 6
+CMP 7 2.4409449 0.9744094 270 N E7 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 2.4183071 0.9744094 270 N 37 0 1
+TOP 1 2.4635827 0.9744094 90 N 5 0 2
+#
+# CMP 7
+CMP 7 2.4409449 1.1811024 270 N E6 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 2.4183071 1.1811024 270 N 17 2 1
+TOP 1 2.4635827 1.1811024 90 N 14 0 2
+#
+# CMP 8
+CMP 7 2.4409449 1.3779527 270 N E5 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 2.4183071 1.3779527 270 N 40 1 1
+TOP 1 2.4635827 1.3779527 90 N 13 0 2
+#
+# CMP 9
+CMP 7 0.7775591 1.7027559 90 N E4 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 0.8001969 1.7027559 90 N 15 1 1
+TOP 1 0.7549213 1.7027559 270 N 10 1 2
+#
+# CMP 10
+CMP 7 2.4409449 1.4793309 270 N E3 TIE-100001-01 ;0=1,1=0.7500,5=0
+PRP DISPLAY_NAME 'Trace-cut Jumper'
+TOP 0 2.4183071 1.4793309 270 N 16 0 1
+TOP 1 2.4635827 1.4793309 90 N 11 1 2
+#
+# CMP 11
+CMP 6 1.1811024 2.1259843 90 N D1 DIO-100005-01 ;0=1,1=0.0256,5=0
+PRP Display_Name 'RClamp0582N'
+PRP Manufacturer 'Semtech'
+PRP Manufacturer_1 'Semtech'
+PRP Manufacturer_Part_Number_1 'RClamp0582N.TCT'
+PRP Mfg 'Semtech'
+PRP Mfg_Part_Number 'RClamp0582N.TCT'
+PRP Package 'SLP1210N6'
+PRP PN 'RClamp0582N.TCT'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'RCLAMP0582N.TCTCT-ND'
+TOP 0 1.1968504 2.1432087 0 N 95 8 1
+TOP 1 1.1811024 2.1432087 0 N 12 1 2
+TOP 2 1.1653543 2.1432087 0 N 9 1 3
+TOP 3 1.1653543 2.1087599 0 N 9 0 4
+TOP 4 1.1811024 2.1087599 0 N 12 0 5
+TOP 5 1.1968504 2.1087599 0 N 38 0 6
+#
+# CMP 12
+CMP 4 0.9448827 2.007874 0 N R2 RES-100084-01 ;0=1,1=0.0236,5=0
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_1 'Yageo'
+PRP Manufacturer_Part_Number_1 'RC0603FR-0727RL'
+PRP Mfg 'Yageo'
+PRP Mfg_Part_Number 'RC0603FR-0727RL'
+PRP Package '0603'
+PRP PN 'RC0603FR-0727RL'
+PRP Power '1/10W'
+PRP Resistance '27'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '311-27.0HRCT-ND'
+PRP Supplier_Part_Number_2 '603-RC0603FR-0727RL'
+PRP Tolerance '1%'
+TOP 0 0.9133867 2.007874 270 N 7 1 1
+TOP 1 0.9763788 2.007874 270 N 12 2 2
+#
+# CMP 13
+CMP 4 0.9448822 1.9488189 0 N R1 RES-100084-01 ;0=1,1=0.0236,5=0
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_1 'Yageo'
+PRP Manufacturer_Part_Number_1 'RC0603FR-0727RL'
+PRP Mfg 'Yageo'
+PRP Mfg_Part_Number 'RC0603FR-0727RL'
+PRP Package '0603'
+PRP PN 'RC0603FR-0727RL'
+PRP Power '1/10W'
+PRP Resistance '27'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '311-27.0HRCT-ND'
+PRP Supplier_Part_Number_2 '603-RC0603FR-0727RL'
+PRP Tolerance '1%'
+TOP 0 0.9133862 1.9488189 270 N 8 1 1
+TOP 1 0.9763783 1.9488189 270 N 9 2 2
+#
+# CMP 14
+CMP 2 1.1614173 2.4015748 180 N J1 CON-100013-01 ;0=1,1=0.1209,5=0
+PRP Manufacturer 'Molex'
+PRP Manufacturer_1 'Molex'
+PRP Manufacturer_Part_Number_1 '47589-0001'
+PRP Mfg 'Molex'
+PRP Mfg_Part_Number '47589-0001'
+PRP PN '47589-0001'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'WM17143CT-ND'
+PRP Value 'USB uAB'
+TOP 0 1.2125984 2.2962598 180 N 2 0 1
+TOP 1 1.1870078 2.2962598 180 N 12 3 2
+TOP 2 1.1614173 2.2962598 180 N 9 3 3
+TOP 3 1.1358267 2.2962598 180 N 41 0 4
+TOP 4 1.1102362 2.2962598 180 N 95 10 5
+TOP 5 1.3257874 2.4015748 180 N 95 17 C1
+TOP 6 1.2066929 2.4015748 180 N 95 5 C2
+TOP 7 1.1161417 2.4015748 180 N 95 4 C3
+TOP 8 0.9970472 2.4015748 180 N 95 11 C4
+TOP 9 1.2490157 2.2834646 180 N 95 18 C5
+TOP 10 1.0738189 2.2834646 180 N 95 12 C6
+#
+# CMP 15
+CMP 0 1.3188976 1.5255906 0 N C4 CAP-000074-01 ;0=1,1=0.0217,5=0
+PRP Capacitance '1uF'
+PRP Dialectric 'X5R'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_1 'Taiyo Yuden'
+PRP Manufacturer_Part_Number_1 'UMK107BJ105KA-T'
+PRP Mfg 'Taiyo Yuden'
+PRP Mfg_Part_Number 'UMK107BJ105KA-T'
+PRP Old_Mfg 'Samsung'
+PRP Old_PN 'CL10A105KB8NNNC'
+PRP Package '0603'
+PRP PN 'UMK107BJ105KA-T'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_3 'Mouser'
+PRP Supplier_4 'Farnell'
+PRP Supplier_Part_Number_1 '1276-1860-1-ND'
+PRP Supplier_Part_Number_2 '587-2400-1-ND'
+PRP Supplier_Part_Number_3 '963-UMK107BJ105KA-T'
+PRP Supplier_Part_Number_4 '2112858'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+TOP 0 1.2874016 1.5255906 270 N 95 3 1
+TOP 1 1.3503937 1.5255906 270 N 2 1 2
+#
+# CMP 16
+CMP 0 1.5341647 1.8700788 180 N C3 CAP-000029-01 ;0=1,1=0.0217,5=0
+PRP Capacitance '0.1uF'
+PRP Dialectric 'X7R'
+PRP Manufacturer 'Samsung'
+PRP Manufacturer_1 'Samsung'
+PRP Manufacturer_Part_Number_1 'CL10B104KB8NNNC'
+PRP Mfg 'Samsung'
+PRP Mfg_Part_Number 'CL10B104KB8NNNC'
+PRP Package '0603'
+PRP PN 'CL10B104KB8NNNC'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'RSComponents'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 '1276-1000-1-ND'
+PRP Supplier_Part_Number_2 '7665443'
+PRP Supplier_Part_Number_3 '187-CL10B104KB8NNNC'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+TOP 0 1.5656607 1.8700788 90 N 42 3 1
+TOP 1 1.5026686 1.8700788 90 N 95 7 2
+#
+# CMP 17
+CMP 0 1.4128174 1.8405513 180 N C2 CAP-000029-01 ;0=1,1=0.0217,5=0
+PRP Capacitance '0.1uF'
+PRP Dialectric 'X7R'
+PRP Manufacturer 'Samsung'
+PRP Manufacturer_1 'Samsung'
+PRP Manufacturer_Part_Number_1 'CL10B104KB8NNNC'
+PRP Mfg 'Samsung'
+PRP Mfg_Part_Number 'CL10B104KB8NNNC'
+PRP Package '0603'
+PRP PN 'CL10B104KB8NNNC'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'RSComponents'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 '1276-1000-1-ND'
+PRP Supplier_Part_Number_2 '7665443'
+PRP Supplier_Part_Number_3 '187-CL10B104KB8NNNC'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+TOP 0 1.4443134 1.8405513 90 N 39 1 1
+TOP 1 1.3813213 1.8405513 90 N 43 1 2
+#
+# CMP 18
+CMP 0 1.4271654 1.4468504 180 N C1 CAP-000074-01 ;0=1,1=0.0217,5=0
+PRP Capacitance '1uF'
+PRP Dialectric 'X5R'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_1 'Taiyo Yuden'
+PRP Manufacturer_Part_Number_1 'UMK107BJ105KA-T'
+PRP Mfg 'Taiyo Yuden'
+PRP Mfg_Part_Number 'UMK107BJ105KA-T'
+PRP Old_Mfg 'Samsung'
+PRP Old_PN 'CL10A105KB8NNNC'
+PRP Package '0603'
+PRP PN 'UMK107BJ105KA-T'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_3 'Mouser'
+PRP Supplier_4 'Farnell'
+PRP Supplier_Part_Number_1 '1276-1860-1-ND'
+PRP Supplier_Part_Number_2 '587-2400-1-ND'
+PRP Supplier_Part_Number_3 '963-UMK107BJ105KA-T'
+PRP Supplier_Part_Number_4 '2112858'
+PRP Tolerance '10%'
+PRP Voltage '50V'
+TOP 0 1.4586614 1.4468504 90 N 42 7 1
+TOP 1 1.3956693 1.4468504 90 N 95 6 2
+#

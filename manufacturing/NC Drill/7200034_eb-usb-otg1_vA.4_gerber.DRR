@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EB-USB-OTG1.PcbDoc   8/14/2025  3:12:37 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 7200034_eb-usb-otg1_vA.4_gerber-RoundHoles.TXT
+ASCII SlotHoles File : 7200034_eb-usb-otg1_vA.4_gerber-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             21        PTH        4.40inch (111.66mm)
+T2      24mil (0.599mm)                                           Slot              2         PTH        0.71inch (18.13mm)
+T3      26mil (0.65mm)                                            Slot              2         PTH        0.37inch (9.30mm)
+T4      40mil (1.016mm)                                           Round             80        PTH        13.80inch (350.52mm)
+T5      125mil (3.175mm)                                          Round             2         NPTH       2.87inch (73.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              107
+
+Total Processing Time (hh:mm:ss) : 00:00:00
